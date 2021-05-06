@@ -24,9 +24,9 @@ such as vacant hospital beds in your city, oxygen availability, plasma, videos b
 
 https://covidrelief.glideapp.io/
 
-## Task Force Twitter
+## Task Force Twitter Handle
 
-covidindiateam is twitter account name.
+covidindiateam
 
 ## List of online COVID-19 resources, India from government
 
@@ -72,6 +72,10 @@ Passcode:
 We will have daily zoom calls starting today 730pm PST, i.e. 8am IST starting Tues May 4 (india time) - zoom link to join is tiny.cc/iitcvteam - those who can help and need help - please both groups come
 
 # New Option to Order Oxygen
+
+## Oxygen Supple Chain List
+
+https://github.com/hesingh/iitcovidtaskforce/blob/master/Oxygen-supply-chain-list.pdf
 
 ## Yet More concentrator Order info
 
