@@ -11,4 +11,4 @@ to a web site.  Both Apple IoS and Andriod support this algorithn. California (C
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7642501/
 
-Uses cellular signal which has an issue mentioned above against MIT section.  I wish India just trashes Aarogya Setu and uses what MIT developed, espeially since IoS and Android phones add the algorithm to the operating system (OS).
+Uses cellular signal which has an issue mentioned above against MIT section.  I wish India just trashes Aarogya Setu and uses what MIT developed, espeially since IoS and Android phones added the algorithm to the operating system (OS).
