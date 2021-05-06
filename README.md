@@ -2,6 +2,10 @@ Note: Anyone reading this page is welcome to share the page and repo with anyone
 
 # Resources
 
+## Covid India - beds, hospitals, plasma, etc.
+
+https://covidtelangana.com/
+
 ## covidresourcesindia
 
 https://www.covidresourcesindia.com/
