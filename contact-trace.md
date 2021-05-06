@@ -4,7 +4,7 @@
 
 https://youtu.be/yuXzAh4slNw
 
-MIT use bluetooth which works inside a train passing through a tunnel - a cellular signal won't work inside the tunnel. The alogrithm is automatic and does not need a user login
+MIT uses bluetooth which works inside a train passing through a tunnel - a cellular signal won't work inside the tunnel. The alogrithm is automatic and does not need a user login
 to a web site.  Both Apple IoS and Andriod support this algorithn. California (CA) is already using it with help from UC/Berkeley who has setup servers.
 
 ## India's Aarogya Setu
