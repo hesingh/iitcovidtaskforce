@@ -158,10 +158,6 @@ https://www.oxygendirect.com/home-oxygen/caire-companion-5-eco-oxygen-concentrat
 
 # Get Masks, PPE in India
 
-IIT/Delhi startup
-
-https://etex.in/
-
 https://www.amazon.in/Kawach-Start-up-Reusable-Washable-protective/dp/B08944XVZR
 
 # Plasma
