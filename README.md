@@ -8,7 +8,7 @@ Note: Anyone reading this page is welcome to share the page and repo with anyone
 
 https://dshm.delhi.gov.in/mis/(S(ubqejlxuy0y50aowcrdaimg3))/Private/frmFreeBedMonitoringReport.aspx
 
-### Gurudware
+### Gurudwara
 
 Gurudwara Rakabganj Sahib (Delhi) ready with 250 Oxygen Beds. Contact No: 09818883337
 
