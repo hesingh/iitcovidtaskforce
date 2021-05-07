@@ -2,7 +2,13 @@ Note: Anyone reading this page is welcome to share the page and repo with anyone
 
 # Resources
 
-## Carious COVID-19-related pan-India resources maintained by IIM-A 1992 
+## Delhi
+
+### Beds
+
+https://dshm.delhi.gov.in/mis/(S(ubqejlxuy0y50aowcrdaimg3))/Private/frmFreeBedMonitoringReport.aspx
+
+## Various COVID-19-related pan-India resources maintained by IIM-A 1992 
 
 https://docs.google.com/spreadsheets/u/0/d/15VMySHSAQAAcxx-QBtxG5o-mJYeVMdVhtgCu0H5J_CA/htmlview#
 
