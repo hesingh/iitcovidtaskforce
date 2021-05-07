@@ -162,6 +162,8 @@ IIT/Delhi startup
 
 https://etex.in/
 
+https://www.amazon.in/Kawach-Start-up-Reusable-Washable-protective/dp/B08944XVZR
+
 # Plasma
 
 https://plasmaconnect.typeform.com/to/PTLWuDIo
