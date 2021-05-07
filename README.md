@@ -2,7 +2,7 @@ Note: Anyone reading this page is welcome to share the page and repo with anyone
 
 # Resources
 
-## A good compilation of various COVID-19-related pan-India resources maintained by IIM-A 1992 
+## Carious COVID-19-related pan-India resources maintained by IIM-A 1992 
 
 https://docs.google.com/spreadsheets/u/0/d/15VMySHSAQAAcxx-QBtxG5o-mJYeVMdVhtgCu0H5J_CA/htmlview#
 
